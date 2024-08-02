@@ -26,7 +26,9 @@
                 <h3>Frutas</h3>
             </div>
             <ul>
-                <li></li>
+                <li>Fresa</li>
+                <li>Frambuesa</li>
+                <li>Granada</li>
             </ul>
         </div>
     </aside>
