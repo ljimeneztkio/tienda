@@ -29,6 +29,9 @@
                 <li>Fresa</li>
                 <li>Frambuesa</li>
                 <li>Granada</li>
+                <li>Limon</li>
+                <li>Pepino</li>
+                <li>Manzana</li>
             </ul>
         </div>
     </aside>
