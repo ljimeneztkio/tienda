@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD</title>
+    <title>Tienda</title>
 </head>
 <body>
     <header>
@@ -21,7 +21,14 @@
     </section>
 
     <aside>
-
+        <div>
+            <div>
+                <h3>Frutas</h3>
+            </div>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
     </aside>
 
     <footer>
