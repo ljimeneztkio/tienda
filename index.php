@@ -29,6 +29,14 @@
                 <li>Frutos Verdes</li>
             </ul>
         </div>
+        <div>
+            <div>Bebidas</div>
+            <ul>
+                <li>Agua</li>
+                <li>Refresco</li>
+                <li>Jugos</li>
+            </ul>
+        </div>
     </aside>
 
     <footer>
